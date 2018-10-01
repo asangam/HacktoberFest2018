@@ -11,6 +11,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Umarov Anvar](https://github.com/arpanetus) | [IITU](http://iitu.kz/)
 * [Aditya Choudhary](https://github.com/adich23) | [MNIT Jaipur](http://mnit.ac.in/)
 * [Willymar Juniarta](https://github.com/juniarta) | [Pasundan University Bandung](http://www.unpas.ac.id/)
+* [Priya Gaire](http://github.com/priyagaire) | [Birendra Multiple Campus](http://bmc.edu.np/)
 * [Adrian Teri](https://github.com/Adrianteri) | [University of Nairobi](https://sci.uonbi.ac.ke)
 
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)
