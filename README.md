@@ -6,6 +6,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 ### Please Enter your details and be part of the HacktoberFest2018
 
 * [Sangam Adhikari](http://github.com/asangam) | [University of Newcastle](https://www.newcastle.edu.au/)
+* [Skye Nguyen](http://github.com/sn31) | [Epicodus](https://www.epicodus.com/)
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)
 
 
