@@ -15,6 +15,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Priya Gaire](http://github.com/priyagaire) | [Birendra Multiple Campus](http://bmc.edu.np/)
 * [Adrian Teri](https://github.com/Adrianteri) | [University of Nairobi](https://sci.uonbi.ac.ke)
 * [Jack Goldsworth](http://github.com/jackgoldsworth) | [Iowa State University](http://iastate.edu)
+* [Ashik Paul](https://github.com/Ashikpaul) | [New Horizon College of Engineering](http://newhorizonindia.edu/nhengineering)
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)
 
 *Please follow the github Markdown format strictly else PR request might get neglected.*
