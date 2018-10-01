@@ -10,6 +10,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Rupesh krishna jha](https://github.com/Rupeshiya) | [IIIT Bhubaneswar](https://www.iiit-bh.ac.in/)
 * [Umarov Anvar](https://github.com/arpanetus) | [IITU](http://iitu.kz/)
 * [Aditya Choudhary](https://github.com/adich23) | [MNIT Jaipur](http://mnit.ac.in/)
+* [Willymar Juniarta](https://github.com/juniarta) | [Pasundan University Bandung](http://www.unpas.ac.id/)
 
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)
 
