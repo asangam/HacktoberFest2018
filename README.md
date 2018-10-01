@@ -17,6 +17,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Bhrigu Kansra](https://github.com/kinetickansra) | [Maharaja Agrasen Institute of Technology](https://www.mait.ac.in)
 * [Nirmal Dalmia](https://github.com/nirmaldalmia) | [BML Munjal University](https://www.bml.edu.in)
 * [Jack Goldsworth](http://github.com/jackgoldsworth) | [Iowa State University](http://iastate.edu)
+* [Ashik Paul](https://github.com/Ashikpaul) | [New Horizon College of Engineering](http://newhorizonindia.edu/nhengineering)
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)
 
 *Please follow the github Markdown format strictly else PR request might get neglected.*
