@@ -13,7 +13,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Willymar Juniarta](https://github.com/juniarta) | [Pasundan University Bandung](http://www.unpas.ac.id/)
 * [Priya Gaire](http://github.com/priyagaire) | [Birendra Multiple Campus](http://bmc.edu.np/)
 * [Adrian Teri](https://github.com/Adrianteri) | [University of Nairobi](https://sci.uonbi.ac.ke)
-* [Jack Goldsworth](http://github.com/jackgoldsworth) | [Iowa State University](https://iastate.edu)
+* [Jack Goldsworth](http://github.com/jackgoldsworth) | [Iowa State University](http://iastate.edu)
 
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)
 
