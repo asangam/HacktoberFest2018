@@ -7,6 +7,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 
 * [Sangam Adhikari](http://github.com/asangam) | [University of Newcastle](https://www.newcastle.edu.au/)
 * [Ibrahim](http://github.com/ibrdrahim) | [State Polytechnic of Bandung](https://www.polban.ac.id/)
+* [Rupesh krishna jha](https://github.com/Rupeshiya) | [IIIT Bhubaneswar](https://www.iiit-bh.ac.in/)
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)
 
 
