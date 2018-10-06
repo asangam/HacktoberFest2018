@@ -33,7 +33,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Maxim Muzafarov](https://github.com/m-messiah) | [UrFU](https://urfu.ru)
 * [Anmol Gupta](https://github.com/hello-anmol)
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)
-*Please follow the github Markdown format strictly else PR request might get neglected*  
+*Please follow the github Markdown format strictly else PR request might get neglected*    
 *Change the demo details and enter your details there, make sure to leave a demo markdown code there for other as it was before.*  
 
 * [Be a part of HacktoberFest2018](https://hacktoberfest.digitalocean.com/)
