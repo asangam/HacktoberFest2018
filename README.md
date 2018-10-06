@@ -19,6 +19,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Nirmal Dalmia](https://github.com/nirmaldalmia) | [BML Munjal University](https://www.bml.edu.in)
 * [Jack Goldsworth](http://github.com/jackgoldsworth) | [Iowa State University](http://iastate.edu)
 * [Ashik Paul](https://github.com/Ashikpaul) | [New Horizon College of Engineering](http://newhorizonindia.edu/nhengineering)
+* [Pushkar Kurhekar](https://github.com/pshkrh) | [Vidyalankar Institute of Technology](http://vit.edu.in/)
 * [Daniel Afonso](https://github.com/danieljcafonso) | [ESTCB](http://est.ipcb.pt)
 * [Arjun Rajpal](https://github.com/arjunrajpal) | [Delhi Technological University](http://dtu.ac.in/)
 * [Suvin Nimnaka](http://github.com/suvink) | [Richmond College, Galle](https://www.richmondcollege.lk)
