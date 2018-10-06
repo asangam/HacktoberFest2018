@@ -32,6 +32,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Saransh Gupta](http://github.com/gupta-saransh) | [Maharaja Agrasen Institute of Technology](https://www.mait.ac.in/)
 * [Maxim Muzafarov](https://github.com/m-messiah) | [UrFU](https://urfu.ru)
 * [Anmol Gupta](https://github.com/hello-anmol)
+* [Manik Malik](https://github.com/manikmalik1999) | [UIET](http://www.uiet.puchd.ac.in/)
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)  
 *Please follow the github Markdown format strictly else PR request might get neglected*    
 *Change the demo details and enter your details there, make sure to leave a demo markdown code there for other as it was before.*  
