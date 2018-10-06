@@ -1,6 +1,7 @@
 # HacktoberFest2018
 This is a repo created to remember the Hacktober Fest organized by Github, DigitalOcean and Twilio.
 
+
 ![Hacktober Logo ](https://raw.githubusercontent.com/asangam/HacktoberFest2018/master/hacktober_log.png)
 
 ### Please Enter your details and be part of the HacktoberFest2018
@@ -19,8 +20,12 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Jack Goldsworth](http://github.com/jackgoldsworth) | [Iowa State University](http://iastate.edu)
 * [Ashik Paul](https://github.com/Ashikpaul) | [New Horizon College of Engineering](http://newhorizonindia.edu/nhengineering)
 * [Riya Bhatia](https://github.com/riyabhatia26) | [University School of Information, Communication & Technology](http://ipu.ac.in/usict/)
+* [Nha Huynh](https://github.com/thanhnha1103) | [Ho Chi Minh City University of Science](https://www.hcmus.edu.vn)
+* [Andrew Hurley](https://github.com/hurleyandrew) | [Rochester Institute of Technology](https://www.rit.edu/programs/new-media-design-bfa)
+* [Saransh Gupta](http://github.com/gupta-saransh) | [Maharaja Agrasen Institute of Technology](https://www.mait.ac.in/)
+* [Maxim Muzafarov](https://github.com/m-messiah) | [UrFU](https://urfu.ru)
+* [Anmol Gupta](https://github.com/hello-anmol)
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)
-
 *Please follow the github Markdown format strictly else PR request might get neglected.*
 *Change the demo details and enter your details there, make sure to leave a demo markdown code there for other as it was before.*
 
