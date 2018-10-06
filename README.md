@@ -19,6 +19,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Jack Goldsworth](http://github.com/jackgoldsworth) | [Iowa State University](http://iastate.edu)
 * [Ashik Paul](https://github.com/Ashikpaul) | [New Horizon College of Engineering](http://newhorizonindia.edu/nhengineering)
 * [Saransh Gupta](http://github.com/gupta-saransh) | [Maharaja Agrasen Institute of Technology](https://www.mait.ac.in/)
+* [Maxim Muzafarov](https://github.com/m-messiah) | [UrFU](https://urfu.ru)
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)
 
 *Please follow the github Markdown format strictly else PR request might get neglected.*
