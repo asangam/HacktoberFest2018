@@ -15,6 +15,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Willymar Juniarta](https://github.com/juniarta) | [Pasundan University Bandung](http://www.unpas.ac.id/)
 * [Priya Gaire](http://github.com/priyagaire) | [Birendra Multiple Campus](http://bmc.edu.np/)
 * [Adrian Teri](https://github.com/Adrianteri) | [University of Nairobi](https://sci.uonbi.ac.ke)
+* [Janukan Sivajeyan](http://github.com/janukan) | [University of Alberta](https://www.youruniurl/)
 * [Bhrigu Kansra](https://github.com/kinetickansra) | [Maharaja Agrasen Institute of Technology](https://www.mait.ac.in)
 * [Nirmal Dalmia](https://github.com/nirmaldalmia) | [BML Munjal University](https://www.bml.edu.in)
 * [Jack Goldsworth](http://github.com/jackgoldsworth) | [Iowa State University](http://iastate.edu)
