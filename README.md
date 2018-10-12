@@ -35,6 +35,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Manik Malik](https://github.com/manikmalik1999) | [UIET](http://www.uiet.puchd.ac.in/)
 * [Lash DJ](https://github.com/afro-code) | [Southern New Hampshire University](https://www.snhu.edu/)
 * [Trevin Edinger](https://github.com/ArkTrevelyan) | [Unenrolled]
+* [Ananya ](https://github.com/ananyaduggal) | [UIET](http://www.uiet.puchd.ac.in/)
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)  
 * [Kapil Verma](https://github.com/kapilk535) | [UIET](http://www.uiet.puchd.ac.in/)
 *Please follow the github Markdown format strictly else PR request might get neglected*    
