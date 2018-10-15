@@ -37,6 +37,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Trevin Edinger](https://github.com/ArkTrevelyan)
 * [Ananya ](https://github.com/ananyaduggal) | [UIET](http://www.uiet.puchd.ac.in/)
 * [Kapil Verma](https://github.com/kapilk535) | [UIET](http://www.uiet.puchd.ac.in/)
+* [Nikhil Singh](https://github.com/nikhils4) | [VIT](http://www.vit.ac.in/)
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)  
 
 *Please follow the github Markdown format strictly else PR request might get neglected*    
