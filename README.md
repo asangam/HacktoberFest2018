@@ -28,6 +28,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Saransh Gupta](http://github.com/gupta-saransh) | [Maharaja Agrasen Institute of Technology](https://www.mait.ac.in/)
 * [Maxim Muzafarov](https://github.com/m-messiah) | [UrFU](https://urfu.ru)
 * [Anmol Gupta](https://github.com/hello-anmol)
+* [Rasula geesara](http://https://github.com/rasulageesara) | [Richmond college](https://www.youruniurl/)
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)
 * [rasula geesara](https://github.com/rasulageesara) | [Your School/Uni](https://www.youruniurl/)
 *Please follow the github Markdown format strictly else PR request might get neglected.*
