@@ -10,6 +10,8 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Rupesh krishna jha](https://github.com/Rupeshiya) | [IIIT Bhubaneswar](https://www.iiit-bh.ac.in/)
 * [Umarov Anvar](https://github.com/arpanetus) | [IITU](http://iitu.kz/)
 
+* [Aisultan Kali](https://github.com/akali) | [KBTU](http://kbtu.kz)
+
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)
 
 
