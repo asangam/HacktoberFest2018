@@ -31,6 +31,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Rasula geesara](http://https://github.com/rasulageesara) | [Richmond college](https://www.youruniurl/)
 * [rasula geesara](https://github.com/rasulageesara) | [Your School/Uni](https://www.youruniurl/)
 * [Kumuthu Gamage](https://github.com/kumugamage) | [Richmond College](https://www.richmondcollege.lk)
+* [Ramath Hashika](https://github.com/hashikaramath56) | [Richmond College](https://www.richmondcollege.lk)
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)
 
 *Please follow the github Markdown format strictly else PR request might get neglected.*
