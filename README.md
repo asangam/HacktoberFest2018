@@ -39,6 +39,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Kapil Verma](https://github.com/kapilk535) | [UIET](http://www.uiet.puchd.ac.in/)
 * [Nikhil Singh](https://github.com/nikhils4) | [VIT](http://www.vit.ac.in/)
 * [james Babu](https://github.com/jamieb10)   | [Amal Jyothi College of Engineering](https://www.ajce.in/)
+* [confix](http://github/confix) | [UAC](https://www.uac.com/) 
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)  
 
 *Please follow the github Markdown format strictly else PR request might get neglected*    
